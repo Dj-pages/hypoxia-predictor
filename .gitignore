@@ -1,6 +1,9 @@
 venv/
 data/raw/
-data/processed/
+data/processed/X.npy
+data/processed/y.npy
+data/processed/X_test.npy
+data/processed/y_test.npy
 __pycache__/
 *.pyc
 logs/
